@@ -1,0 +1,69 @@
+http://localhost:8000/geo_data/api_v1/city/453340
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/453345
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/569793
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/569794
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/567543
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/567553
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/537014
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/537026
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/537041
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/7609844
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/7609871
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/7604681
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/6666666
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/7604688
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/horosho
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/12a
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/62
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/ôûö
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------

@@ -1,0 +1,79 @@
+http://localhost:8000/geo_data/api_v1/city/Тазово&Тимошкино
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Ветлянка&ухошино
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Осельки&таутово
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/осиновка&Тимошкино
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/горбово&Осельки
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Тазово&осиновка
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/рязаново&новая деревня
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/елизаветино&осиновка
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/янд-озеро&осиновка
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/яндовище&осиновка
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/озеро рыбачье&Станция Яндеба
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Вешки&озеро сомино
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Отделение Совхоза Тселинный Номер Три&Урочище Иссиргужи
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/костелево&озеро Малое Искровно
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Kora&horosho
+{
+  "Error": "Localities are missing in the database"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/23&12
+{
+  "Error": "Localities are missing in the database"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Lora&G0ga34
+{
+  "Error": "Localities are missing in the database"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Вешки&10
+{
+  "Error": "Second city not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/3КЕ7&таутово
+{
+  "Error": "First city not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Тазово&Тимошкино
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Ветлянка&ухошино
+OK
+ ---------------------------------------
+

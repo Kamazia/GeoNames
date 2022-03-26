@@ -1,0 +1,42 @@
+http://localhost:8000/geo_data/api_v1/city/Таз
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/газ
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/ит
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Морн
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/фан
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/логи
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/Тим
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/курhttp://localhost:8000/geo_data/api_v1/city/логиуцвм
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/retuit
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/а4ом2
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------

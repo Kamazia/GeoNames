@@ -1,0 +1,45 @@
+http://localhost:8000/geo_data/api_v1/city/?page=2&count=13
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=45&count=19
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=12&count=52
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=222&count=234
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=24&count=243
+OK
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=ku&count=13
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=45&count=ass
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=ass&count=ku
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page= &count=qwe
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
+http://localhost:8000/geo_data/api_v1/city/?page=2a&count=2b
+{
+  "Error": "Not found"
+}
+
+ ---------------------------------------
